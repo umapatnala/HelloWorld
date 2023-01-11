@@ -15,4 +15,3 @@ steps:
     gitHubConnection: 'github.com_umapatnala'
     repositoryName: '$(Build.Repository.Name)'
     action: 'delete'
-    tag: 'gitTag'
